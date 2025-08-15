@@ -100,10 +100,15 @@ print(f"Loss: {test_loss:.4f} - Accuracy: {test_accuracy:.4f}")
   - Test Loss: 0.0336
   - Test Accuracy: 0.9851 (~98.51%)
 - **Loss Curve**:
+  
   ![Loss Curve](curve.png)
+  
 - **Confusion Matrix**:
+  
   ![Confusion Matrix](matrix.png)
+  
 - **Model Output**:
+  
   ![Model Output](result_model.png)
 
 ---
